@@ -1,0 +1,12 @@
+Package: questionR
+Title: Question Typology in R
+Version: 0.0.0.9000
+Authors@R: person("Leslie", "Huang", email = "lesliehuang@nyu.edu", role = c("aut", "cre"))
+Description: Ports the Question Typology library into R
+Depends: R (>= 3.4.3)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: NA,
+    devtools,
+    reticulate
