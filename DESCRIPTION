@@ -1,5 +1,5 @@
 Package: questionR
-Title: Question Typology in R
+Title: Cornell NLP's Question Typology in R
 Version: 0.0.0.9000
 Authors@R: person("Leslie", "Huang", email = "lesliehuang@nyu.edu", role = c("aut", "cre"))
 Description: Ports the Question Typology library into R
